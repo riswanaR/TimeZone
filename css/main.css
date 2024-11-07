@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&family=Black+Ops+One&family=Forum&family=Josefin+Sans:wght@700&family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&family=Phudu:wght@400;500;600;700&family=Playfair+Display&family=Roboto+Slab:wght@200;300;400&family=Roboto:wght@400;700;900&family=Rouge+Script&family=Russo+One&display=swap');
+
+img { width: 100%; }
+.log { animation: pulse 4s linear infinite; width: 50%; }
+@media (min-width: 300px) and (max-width: 991.98px) {
+    .hh1 { font-size: 30px; }
+    .pp{ font-size: 30px; }
+    .shop-but{ background-color: rgb(73, 67, 67); color: white; height: 70px; width: 200px; }
+    .imgg3 { padding-top: 40px; }
+}
+.pp { padding-left: 30px; padding-top: 50px; }
+.hh { font-size: 22px; font-family: 'Neuton', serif; font-weight: bolder; padding-top: 20px; }
+.alink { text-decoration: none; color: #ffff; justify-content: center; }
+.hg { font-size: 20px; color: red; }
+.imgg1, .imgg2 { height: 640px; }
+.imgg3 { height: 300px; }
+.imgg4 { height: 300px; margin-top: 40px; }
+.img { padding-top: 30px; transition: all 0.5s; }
+.img:hover { transform: scale(1.1); }
+.bg { background-color: rgb(187, 194, 191); }
+.hh1 { font-size: 70px; font-family: 'Josefin Sans', sans-serif; padding-top: 300px; padding-left: 30px; color: rgb(3, 3, 41); font-weight: bold; }
+.row .hh1, .pp, .shop-but { margin-left: 100px; }
+.col-lg-12 .shop-but { margin-left: 130px; border: none;}
+.shop-but { background-color: rgb(73, 67, 67); color: white; height: 50px; width: 120px; margin-left: 30px; margin-top: 50px; font-family: 'Roboto Slab', serif; transition: all 0.3s; }
+.shop-but:hover { background-color: rgb(7, 6, 6); transform: scale(1.1); }
+.material-symbols-outlined { padding-right: 30px; padding-left: 10px; }
+.log { margin-left: 100px; }
+.h_1 { font-family: 'Josefin Sans', sans-serif; font-weight: bold; color: black; font-size: 50px; margin-top: 150px; margin-bottom: 80px; }
+.butt { background-color: red; color: white; width: 340px; height: 60px; border: none; transition: 0.3s; }
+.butt:hover { transform: scale(1.1); }
+.h2h, .h3h { font-size: 20px; color: rgb(45, 51, 56); font-family: 'Josefin Sans', sans-serif; padding-top: 20px; font-weight: bold; padding-left: 60px; }
+.pp2, .pp3 { font-size: 15px; color: rgb(45, 51, 56); font-family: 'Josefin Sans', sans-serif; font-weight: bold; padding-left: 150px; }
+.button-wrapper { display: flex; justify-content: center; margin-top: 20px; }
+.but2, .but1 { background-color: rgb(240, 4, 4); color: white; height: 50px; font-family: 'Roboto Slab', serif; margin-top: 100px; border: none;}
+.imgh { padding-left: 200px; padding-top: 100px; }
+@media (min-width: 300px) and (max-width: 991.98px) { .imgh { padding-bottom: 200px; } }
+.mh { font-family: 'Josefin Sans', sans-serif; font-size: 60px; color: black; padding-top: 150px; }
+.p3p { font-size: medium; font-weight: 500; color: rgb(79, 79, 80); padding-top: 30px; }
+.bg1 { background-color: red; }
+.bg2 { background-image: url('../images/gallery1.png.webp'); background-repeat: repeat; background-size: cover; height: 800px; margin-top: 80px; }
+.cen { padding-top: 30%; }
+.but3 { border-radius: 90%; width: 100px; height: 100px; background-color: black; border-color: #ffff; }
+.icon { font-size: 50px; color: antiquewhite; }
+.h21 { color: aliceblue; padding-top: 15px; font-size: 20px; }
+.ppp { color: white; padding-top: 20px; }
+.pp1 { color: rgb(108, 109, 110); margin-bottom: 100px ; }
+.mgh { margin-top: 150px; color: black; }
+.h1h { text-align: center; font-family: 'Josefin Sans', sans-serif; font-size: 50px; font-weight: bold; margin-top: 150px; }
+.pp1 { text-align: center; font-family: 'Josefin Sans', sans-serif; font-size: 30px; }
+.hd { color: rgb(113, 115, 117); text-decoration: none; }
+.ha { color: rgb(113, 115, 117); margin-top: 10px; }
+.hb { color: red; text-decoration: none; }
+.p1 { margin-bottom: 200px; color: rgb(113, 115, 117); padding-top: 50px; }
+.div1 { padding-top: 50px; }
+.be { padding-right: 20px; color: black; }
